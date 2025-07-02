@@ -147,6 +147,10 @@ section {
   font-weight: bold;
 }
 
+.grid-layout section {
+  padding: 0.5rem;
+}
+
 /* Responsieve layout */
 @media (min-width: 768px) {
   .grid-layout {
